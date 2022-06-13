@@ -14,6 +14,8 @@
 
 ## Data Analysis Results
 
+Data set used: [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
+
 Question 1:
 What is the difference between the average cast size of a move and a tv show?
 
@@ -22,16 +24,17 @@ What is the average age of content in each market and what is the trend?
 
 ## Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Python 3.9
+* Pandas
+* Matplotlib
+* Kaggle
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Matplotlib](https://matplotlib.org/stable/index.html)
-* 
+* [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html)
 
 ## Future Work
 
