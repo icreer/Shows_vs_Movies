@@ -18,9 +18,13 @@ Data set used: [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/vic
 
 Question 1:
 What is the difference between the average cast size of a move and a tv show?
+ 
+Movie: 18 people
+Show: 8 people
 
 Question 2:
-What is the average age of content in each market and what is the trend?
+What is the average age of content and what is the trend?
+The average age of content is 5.98 years or just 6 years. The trend of the content is once that content will keep being produce in larger and larger amount do to the push that Netfix is doing to increase their numbers of original content. 
 
 ## Development Environment
 

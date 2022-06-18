@@ -48,10 +48,10 @@ cast_number = cast_value[:,1]
 titles_id = titles_type[:,0]
 titles_moveorshow = titles_type[:,1]
 
-print(cast_id)
-print(cast_number)
-print(titles_id)
-print(titles_moveorshow)
+#print(cast_id)
+#print(cast_number)
+#print(titles_id)
+#print(titles_moveorshow)
 
 
 map_of_id_and_cast_number = dict()
@@ -82,12 +82,12 @@ for title in map_of_id_and_cast_number:
             show_count_cast += int(map_of_id_and_cast_number[title])
 
 print(f"The number of show is {show_amount}.")
-print(f"The number of cast members for shows is {show_count_cast}")
+print(f"The total number of cast members for shows is {show_count_cast}")
 print(f"The number of movies is {movie_amount}")
-print(f"The number of cast members for movie is {movie_count_cast}")
+print(f"The total number of cast members for movie is {movie_count_cast}")
 
 average_movie_cast_amount = movie_count_cast / movie_amount
 average_show_cast_amount = show_count_cast / show_amount
 
-print(average_movie_cast_amount)
-print(average_show_cast_amount)
+print(f"The average movie cast amount is {average_movie_cast_amount}")
+print(f"The average show cast amount is {average_show_cast_amount}")
