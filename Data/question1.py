@@ -65,7 +65,7 @@ for i in range(len(titles_id)):
     map_of_id_and_moveorshow[titles_id[i]] = titles_moveorshow[i]
 
 """
-This my frist attepmt to get an average but they are very 
+This my frist attepmt to get an average but doesn't fulter much of the information
 """
 show_amount = 0
 show_count_cast = 0
