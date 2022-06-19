@@ -35,6 +35,8 @@ for i in range(len(number_of_releases)):
 weightaverge = weightavergesnumerater/total_number_of_releases
 print(f"The average age of a movie or show on netfix is {weightaverge}")
 
-plt.stem(years,number_of_releases,"-ok" )
-
+plt.stem(years,number_of_releases )
+plt.title("Number of new content on Netflix each year")
+plt.xlabel("Years")
+plt.ylabel("Number of Movie or Shows")
 plt.show()

@@ -6,7 +6,7 @@ This is software that is using data from Kaggle about data from Nexflix Movie an
 1. What is the difference between the average cast size of a movie and a tv show?
 2. What is the average age of content and what is the trend?
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/L1t6p6PcTrs)
 
 ## Data Analysis Results
 
@@ -39,6 +39,6 @@ The average age of content is 5.98 years or just 6 years. The trend of the conte
 ## Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make Data Cleaner
+* Make Data set larger
+* Get infromation about other streaming websites
